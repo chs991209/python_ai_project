@@ -1,4 +1,4 @@
-# <p align="center">Jbnu AM:PM AI Project</p>   
+# <p >Jbnu AM:PM AI Project</p>   
 
 <p></p>
 
@@ -20,12 +20,16 @@
 
 ###
 
+<div align="center">
 <img src="https://www.python.org/static/img/python-logo@2x.png" style="width: 350px; display: block; margin: 0 auto" alt="Python">
+</div>
 
 ### <p align="center" link href=""><b>Python ver 3.8.8</b> &nbsp; 👉 [Doc for Ver 3.8.8](https://www.python.org/downloads/release/python-388/)</p>
 ### 
 
+<div align="center">
 <img src="https://images.velog.io/images/prayme/post/720d6efc-8dec-4d8f-8a84-b04ef10ea1a1/pngegg.png" style="width: 350px; display: block; margin: 0 auto">
+</div>
 
 ### <p align="center"><b>Anaconda 3</b>&nbsp; 👉 [Release Note on 2105](https://docs.anaconda.com/free/anaconda/release-notes/#anaconda-2021-05-may-13-2021)</b></p>
 
@@ -44,8 +48,9 @@
         $ conda activate env_name
         -> (env_name)$
 
-
+<div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" style="width: 350px; display: block; margin: 0 auto">
+</div>
 <p></p>
 
 ### <p align="center"><b>Tensorflow 2.5.0</b>&nbsp; 👉 [Tensorflow 2 Installation Guide](https://www.tensorflow.org/install?hl=ko)</b></p>
@@ -63,8 +68,9 @@
         -> tensorflow==2.5.0
     
 
-
+<div align="center">
 <img src="https://jupyter.org/assets/share.png" style="width: 350px; display: block; margin: 0 auto">
+</div>
 
 ### <p align="center"><b>Jupyter Notebook</b>&nbsp; 👉 [Jupyter Installation Guide](https://jupyter.org/install)</p>
 
